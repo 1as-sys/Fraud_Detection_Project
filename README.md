@@ -1,5 +1,4 @@
 # Fraud Detection Project
-
 ## Objective
 Detect fraudulent transactions using machine learning
 
@@ -16,5 +15,3 @@ Python, Pandas, Scikit-learn, Random Forest, Streamlit
 1. Install dependencies:
 ```bash
 pip install -r requirements.txt
-
-
